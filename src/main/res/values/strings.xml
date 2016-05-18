@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Local de succes</string>
+    <string name="large_text">
+        "5 pasi pentru a avea un local de succes\n\n\n"
+        "1. Locatie buna\n\n"
+        "Locatia este foarte imporanta.Locatia este un factor important cand vine vorba de profit.\n\n"
+        "2. Comincare cu clientii\n\n"
+        "Recenziile primte de la clienti stau la baza unei afaceri de succes.\n\n"
+         "3. Preturi rezonabile\n\n"
+        "Studiile ne indica faptul ca pretul este un punct de referinta in ceea ce priveste clientela\n\n"
+        "4. Fara paza \n\n"
+       
+        "Clientii trebuie sa se simta tot timpul protejati"
+        "\n\n"
+        "5. Specific bine definit\n\n"
+       
+        "Specificul trebuie ales in asa fel incat clientii sa se simta bine si totodata specificul trebuie sa atraga cat mai multi clienti"
+       
+        "\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
+
